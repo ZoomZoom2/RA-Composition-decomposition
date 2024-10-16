@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RA-Composition-decomposition/static/css/main.67490e03.css",
+    "main.js": "/RA-Composition-decomposition/static/js/main.1fcb9a49.js",
+    "static/media/Montserrat-Regular.woff2": "/RA-Composition-decomposition/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Composition-decomposition/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/RA-Composition-decomposition/index.html",
+    "main.67490e03.css.map": "/RA-Composition-decomposition/static/css/main.67490e03.css.map",
+    "main.1fcb9a49.js.map": "/RA-Composition-decomposition/static/js/main.1fcb9a49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67490e03.css",
+    "static/js/main.1fcb9a49.js"
+  ]
+}
